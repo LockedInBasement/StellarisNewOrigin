@@ -30,8 +30,8 @@
 #	ai_playable = {}							# Similar to "playable", for AI
 #}
 
-civic_shared_dream = {
-	description = "civic_shared_dream"
+civic_shared_dreams = {
+	description = "civic_shared_dreams"
 	potential = {
 			ethics = {
 				NOT = {
