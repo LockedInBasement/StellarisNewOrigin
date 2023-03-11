@@ -1,0 +1,18 @@
+namespace = infinityCouncil
+country_event = {
+ 	id = infinityCouncil.1
+ 	hide_window = yes
+
+ 	is_triggered_only = yes
+
+	 trigger = {
+		has_origin = origin_exiled_sciencist
+	}
+
+ 	immediate = {
+			give_technology = { tech = tech_powered_exoskeletons message = no }
+			give_technology = { tech = tech_robotic_workers message = no }
+			give_technology = { tech = tech_gene_tailoring message = no }
+		}
+ 	}
+}

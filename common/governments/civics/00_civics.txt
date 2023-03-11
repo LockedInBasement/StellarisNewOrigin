@@ -70,8 +70,7 @@ civic_cloning_doctrine = {
 	}
 	random_weight = { base = 5 }
 	modifier = {
-		pop_growth_speed = 1.00
-		pop_citizen_happiness = 0.80
+		pop_growth_speed = 3.00
 	}
 }
 
